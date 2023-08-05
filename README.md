@@ -7,3 +7,4 @@ INSERT INTO member(name, username, password, follower_count) VALUES('Mayer','tes
 INSERT INTO member(name, username, password, follower_count) VALUES('Jimmy','test3','test3',50);
 INSERT INTO member(name, username, password, follower_count) VALUES('Louis','test4','test4',70);
 ```
+![image](img/3. select all.png)
